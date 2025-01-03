@@ -1,7 +1,6 @@
 import { PerspectiveCamera, View } from '@react-three/drei'
 import Lights from './Lights'
 import { Suspense } from 'react'
-import { div } from 'three/tsl'
 
 const ModelView = ({
   index,
